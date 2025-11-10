@@ -1,0 +1,13 @@
+# Binaries
+workshop4
+
+# OS files
+.DS_Store
+
+# Go build files
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
